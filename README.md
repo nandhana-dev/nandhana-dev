@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey there 👋, I'm Nandhana
 
-<!--
-**nandhana-dev/nandhana-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Developer | Blockchain Learner | Curious Human**
 
-Here are some ideas to get you started:
+I build things that talk back — like **VoiceCook v1**,  
+a voice-powered recipe app that finds, saves, and shares your kitchen magic.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 What I Do
+- Turn caffeine into code ☕➡💻  
+- Build apps with Flutter & Hive  
+- Learn Python & Blockchain like my life depends on it  
+
+---
+
+## 🛠 Current Playground
+- **Python Libraries** — scikit-learn, pandas, matplotlib  
+- **Blockchain** — Ethereum smart contracts, Web3  
+- **Ideas** — too many, not enough hours  
+
+---
+
+## 🌍 Connect
+- [LinkedIn](https://www.linkedin.com/in/nandhana-prabhakar-33144b290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- [GitHub](https://github.com/nandhana-dev)  
+- Email: nandhanaprabhakar231@gmail.com 
+
+---
+
+*"I don’t just debug code… I debug reality — one bug at a time."*
+
